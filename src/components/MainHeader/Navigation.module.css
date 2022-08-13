@@ -18,7 +18,7 @@
 
 .nav a:hover,
 .nav a:active {
-  color: #f3cafb;
+  color: #EAEAEA;
 }
 
 .nav button {
@@ -39,6 +39,6 @@
 
 .nav button:hover,
 .nav button:active {
-  color: white;
+  color: #EAEAEA;
   box-shadow: 0 2px 10px rgba(0, 0, 0, 0.26);
 }
