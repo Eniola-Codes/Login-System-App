@@ -13,12 +13,12 @@ const Navigation = (props) => {
       <ul>
         {authCtx.isLoggedIn && (
           <li>
-            <a href="/">Users</a>
+            <a href="/">Home</a>
           </li>
         )}
         {authCtx.isLoggedIn && (
           <li>
-            <a href="/">Admin</a>
+            <a href="/">About</a>
           </li>
         )}
         {authCtx.isLoggedIn && (
