@@ -14,7 +14,7 @@ This is a frontend validation and login system application that takes on email a
 
 The form has a validation that automatically focuses on an input field once the user tries to submit the form with an invalid input, then proceeds to validate on every input click to teh form
 
-![Form](https://github.com/Eniola-Codes/MovTime-Movie-App/blob/main/public/Assets/Images/nav.png?raw=true)
+![Form](https://github.com/Eniola-Codes/Login-System-App/blob/main/assets/login.png?raw=true)
 
 It stores the user login state in the local storage of the web browser so the user stays logged in even though the page is reloaded or the user leaves and visits the page later
 
