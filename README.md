@@ -20,7 +20,7 @@ It stores the user login state in the local storage of the web browser so the us
 
 When user is logged in, they user can easily log out with the logout button and the state is set to log out using the useContext() hook
 
-![Log out](https://github.com/Eniola-Codes/MovTime-Movie-App/blob/main/public/Assets/Images/nav.png?raw=true)
+![Log out](https://github.com/Eniola-Codes/Login-System-App/blob/main/assets/logoutbutton.png?raw=true)
 
 **Technologies**
 
